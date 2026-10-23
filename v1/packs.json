@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "ar-hamed.zip", "bytes": 69371827, "sha256": "a6071d6c540c50c0d1826ab0f255c49f697f4117cd7d1788233782658750cb24"}
+  ]
+}

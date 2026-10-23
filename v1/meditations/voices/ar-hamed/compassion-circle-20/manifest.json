@@ -1,0 +1,394 @@
+{
+  "id": "compassion-circle-20",
+  "voiceId": "ar-hamed",
+  "edgeVoice": "ar-SA-HamedNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 357,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 1,
+      "text": "خذ وقتا للوصول.",
+      "file": "c001.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 2,
+      "text": "الجلوس أو الاستلقاء مع الدعم.",
+      "file": "c002.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 3,
+      "text": "أغمض عينيك إذا كان ذلك آمنًا.",
+      "file": "c003.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 4,
+      "text": "يشعر الاتصال مع الأرض.",
+      "file": "c004.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 5,
+      "text": "التنفس البطيء.",
+      "file": "c005.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 6,
+      "text": "زفير أطول.",
+      "file": "c006.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 7,
+      "text": "[وقفة: 27]",
+      "file": "c007.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 8,
+      "text": "مرة أخرى.",
+      "file": "c008.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 9,
+      "text": "[وقفة: 27]",
+      "file": "c009.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 10,
+      "text": "دع الكتفين تنخفض.",
+      "file": "c010.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 11,
+      "text": "دع البطن يلين.",
+      "file": "c011.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 12,
+      "text": "[وقفة: 34]",
+      "file": "c012.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 13,
+      "text": "سوف نقدم اللطف في دائرة آخذة في الاتساع.",
+      "file": "c013.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 14,
+      "text": "العبارات هي دعوات وليست أوامر.",
+      "file": "c014.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 15,
+      "text": "[وقفة: 34]",
+      "file": "c015.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 16,
+      "text": "تجاه نفسك.",
+      "file": "c016.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 17,
+      "text": "أتمنى أن أكون آمنا.",
+      "file": "c017.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 18,
+      "text": "[وقفة: 27]",
+      "file": "c018.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 19,
+      "text": "أتمنى أن أكون بخير.",
+      "file": "c019.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 20,
+      "text": "[وقفة: 27]",
+      "file": "c020.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 21,
+      "text": "هل لي أن أعيش بسهولة.",
+      "file": "c021.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 22,
+      "text": "[وقفة: 41]",
+      "file": "c022.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 23,
+      "text": "مرة أخرى، ببطء.",
+      "file": "c023.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 24,
+      "text": "أتمنى أن أكون آمنا.",
+      "file": "c024.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 25,
+      "text": "أتمنى أن أكون بخير.",
+      "file": "c025.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 26,
+      "text": "هل لي أن أعيش بسهولة.",
+      "file": "c026.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 27,
+      "text": "[وقفة:69]",
+      "file": "c027.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 28,
+      "text": "أحضر إلى ذهنك صديقًا أو شخصًا يسهل الاهتمام به.",
+      "file": "c028.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 29,
+      "text": "دمتم آمنين.",
+      "file": "c029.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 30,
+      "text": "[وقفة: 27]",
+      "file": "c030.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 31,
+      "text": "أتمنى أن تكونوا بخير.",
+      "file": "c031.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 32,
+      "text": "[وقفة: 27]",
+      "file": "c032.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 33,
+      "text": "نرجو أن تعيش بكل سهولة.",
+      "file": "c033.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 34,
+      "text": "[وقفة:69]",
+      "file": "c034.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 35,
+      "text": "ضع في اعتبارك شخصًا محايدًا. شخص بالكاد تعرفه.",
+      "file": "c035.ogg",
+      "durationSec": 10.08
+    },
+    {
+      "index": 36,
+      "text": "دمتم آمنين.",
+      "file": "c036.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 37,
+      "text": "أتمنى أن تكونوا بخير.",
+      "file": "c037.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 38,
+      "text": "نرجو أن تعيش بكل سهولة.",
+      "file": "c038.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 39,
+      "text": "[وقفة:69]",
+      "file": "c039.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 40,
+      "text": "إذا كان الأمر ممكنًا، قم بتضمين شخص صعب، بخفة.",
+      "file": "c040.ogg",
+      "durationSec": 9.48
+    },
+    {
+      "index": 41,
+      "text": "أو ارجع إلى نفسك إذا كان ذلك أكثر حكمة اليوم.",
+      "file": "c041.ogg",
+      "durationSec": 8.16
+    },
+    {
+      "index": 42,
+      "text": "نرجو أن تكون خاليًا من المعاناة.",
+      "file": "c042.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 43,
+      "text": "[وقفة: 55]",
+      "file": "c043.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 44,
+      "text": "اتسع لجميع الكائنات، القريب والبعيد.",
+      "file": "c044.ogg",
+      "durationSec": 7.944
+    },
+    {
+      "index": 45,
+      "text": "نرجو أن تكون جميع الكائنات آمنة.",
+      "file": "c045.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 46,
+      "text": "[وقفة: 34]",
+      "file": "c046.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 47,
+      "text": "عسى أن تكون جميع الكائنات بخير.",
+      "file": "c047.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 48,
+      "text": "[وقفة: 34]",
+      "file": "c048.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 49,
+      "text": "نرجو أن تعيش جميع الكائنات بسهولة.",
+      "file": "c049.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 50,
+      "text": "[وقفة: 82]",
+      "file": "c050.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 51,
+      "text": "ارجع إلى جسدك وأنفاسك.",
+      "file": "c051.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 52,
+      "text": "استرح في شفق العبارات.",
+      "file": "c052.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 53,
+      "text": "[وقفة: 150]",
+      "file": "c053.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 54,
+      "text": "لا شيء للقوة. النعومة كافية.",
+      "file": "c054.ogg",
+      "durationSec": 7.776
+    },
+    {
+      "index": 55,
+      "text": "[وقفة: 137]",
+      "file": "c055.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 56,
+      "text": "[وقفة: 41]",
+      "file": "c056.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 57,
+      "text": "البدء في تعميق التنفس.",
+      "file": "c057.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 58,
+      "text": "الباقي هنا.",
+      "file": "c058.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 59,
+      "text": "[وقفة: 26]",
+      "file": "c059.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 60,
+      "text": "اشعر بالغرفة مرة أخرى.",
+      "file": "c060.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 61,
+      "text": "تذبذب أصابع اليدين والقدمين.",
+      "file": "c061.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 62,
+      "text": "عندما تصبح جاهزة، افتح عينيك.",
+      "file": "c062.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 63,
+      "text": "التحرك ببطء إلى ما سيأتي بعد ذلك.",
+      "file": "c063.ogg",
+      "durationSec": 6.792
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "id": "open-awareness-5",
+  "voiceId": "ar-hamed",
+  "edgeVoice": "ar-SA-HamedNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 156,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 1,
+      "text": "ابحث عن مقعد مريح، أو استلقِ إذا كان ذلك أفضل.",
+      "file": "c001.ogg",
+      "durationSec": 8.928
+    },
+    {
+      "index": 2,
+      "text": "دع اليدين ترتاح.",
+      "file": "c002.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 3,
+      "text": "تنعيم العينين، أو إغلاقهما.",
+      "file": "c003.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 4,
+      "text": "خذ نفسا بطيئا.",
+      "file": "c004.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 5,
+      "text": "وزفير أطول.",
+      "file": "c005.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 6,
+      "text": "ابدأ بالتنفس لبضع دورات.",
+      "file": "c006.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 7,
+      "text": "[وقفة: 28]",
+      "file": "c007.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 8,
+      "text": "الآن اتساع. تضمين الأصوات.",
+      "file": "c008.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 9,
+      "text": "قريب. بعيد. تغيير. ثابت.",
+      "file": "c009.ogg",
+      "durationSec": 10.944
+    },
+    {
+      "index": 10,
+      "text": "[وقفة: 28]",
+      "file": "c010.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 11,
+      "text": "تشمل الأحاسيس في الجسم.",
+      "file": "c011.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 12,
+      "text": "نقاط الاتصال. درجة حرارة. نبض ناعم.",
+      "file": "c012.ogg",
+      "durationSec": 10.824
+    },
+    {
+      "index": 13,
+      "text": "[وقفة: 28]",
+      "file": "c013.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 14,
+      "text": "تشمل مساحة الغرفة.",
+      "file": "c014.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 15,
+      "text": "الوعي مثل السماء المفتوحة.",
+      "file": "c015.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 16,
+      "text": "[وقفة: 34]",
+      "file": "c016.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 17,
+      "text": "قد تظهر الأفكار مثل الطقس.",
+      "file": "c017.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 18,
+      "text": "لا حاجة لمطاردتهم أو دفعهم.",
+      "file": "c018.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 19,
+      "text": "تبقى السماء.",
+      "file": "c019.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 20,
+      "text": "[وقفة: 45]",
+      "file": "c020.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 21,
+      "text": "الراحة في هذا المجال المفتوح.",
+      "file": "c021.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 22,
+      "text": "[وقفة: 45]",
+      "file": "c022.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 23,
+      "text": "خذ نفسًا سهلاً آخر.",
+      "file": "c023.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 24,
+      "text": "تذبذب الأصابع.",
+      "file": "c024.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 25,
+      "text": "عندما تكون مستعدا، افتح عينيك.",
+      "file": "c025.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 26,
+      "text": "احمل القليل من هذا معك.",
+      "file": "c026.ogg",
+      "durationSec": 5.16
+    }
+  ]
+}
