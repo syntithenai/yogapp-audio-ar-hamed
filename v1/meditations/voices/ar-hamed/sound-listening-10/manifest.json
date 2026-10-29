@@ -1,0 +1,250 @@
+{
+  "id": "sound-listening-10",
+  "voiceId": "ar-hamed",
+  "edgeVoice": "ar-SA-HamedNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 210,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 1,
+      "text": "خذ وقتا للوصول.",
+      "file": "c001.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 2,
+      "text": "الجلوس أو الاستلقاء مع الدعم.",
+      "file": "c002.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 3,
+      "text": "أغمض عينيك إذا كان ذلك آمنًا.",
+      "file": "c003.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 4,
+      "text": "يشعر الاتصال مع الأرض.",
+      "file": "c004.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 5,
+      "text": "التنفس البطيء.",
+      "file": "c005.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 6,
+      "text": "زفير أطول.",
+      "file": "c006.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 7,
+      "text": "[وقفة: 23]",
+      "file": "c007.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 8,
+      "text": "مرة أخرى.",
+      "file": "c008.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 9,
+      "text": "[وقفة: 23]",
+      "file": "c009.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 10,
+      "text": "دع الكتفين تنخفض.",
+      "file": "c010.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 11,
+      "text": "دع البطن يلين.",
+      "file": "c011.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 12,
+      "text": "[وقفة: 29]",
+      "file": "c012.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 13,
+      "text": "افتح الأذنين.",
+      "file": "c013.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 14,
+      "text": "لاحظ أقرب صوت.",
+      "file": "c014.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 15,
+      "text": "[وقفة: 29]",
+      "file": "c015.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 16,
+      "text": "لاحظ أبعد صوت يمكنك سماعه.",
+      "file": "c016.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 17,
+      "text": "[وقفة: 29]",
+      "file": "c017.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 18,
+      "text": "لاحظ الصمت بين الأصوات.",
+      "file": "c018.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 19,
+      "text": "[وقفة: 35]",
+      "file": "c019.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 20,
+      "text": "الأصوات تنشأ وتمر. لا تحتاج إلى تسميتهم.",
+      "file": "c020.ogg",
+      "durationSec": 9.768
+    },
+    {
+      "index": 21,
+      "text": "السمع يسمع.",
+      "file": "c021.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 22,
+      "text": "[وقفة: 47]",
+      "file": "c022.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 23,
+      "text": "عندما يتجول العقل، العودة إلى الاستماع.",
+      "file": "c023.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 24,
+      "text": "[وقفة: 35]",
+      "file": "c024.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 25,
+      "text": "قم بتضمين صوت أنفاسك.",
+      "file": "c025.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 26,
+      "text": "[وقفة: 35]",
+      "file": "c026.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 27,
+      "text": "الراحة في المشهد الصوتي كله.",
+      "file": "c027.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 28,
+      "text": "مجال حي من الاهتزاز.",
+      "file": "c028.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 29,
+      "text": "[وقفة: 90]",
+      "file": "c029.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 30,
+      "text": "لا يوجد شيء لحله في الاستماع.",
+      "file": "c030.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 31,
+      "text": "[وقفة: 70]",
+      "file": "c031.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 32,
+      "text": "[وقفة: 35]",
+      "file": "c032.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 33,
+      "text": "البدء في تعميق التنفس.",
+      "file": "c033.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 34,
+      "text": "الباقي هنا.",
+      "file": "c034.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 35,
+      "text": "[وقفة: 27]",
+      "file": "c035.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 36,
+      "text": "اشعر بالغرفة مرة أخرى.",
+      "file": "c036.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 37,
+      "text": "تذبذب أصابع اليدين والقدمين.",
+      "file": "c037.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 38,
+      "text": "عندما تصبح جاهزة، افتح عينيك.",
+      "file": "c038.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 39,
+      "text": "التحرك ببطء إلى ما سيأتي بعد ذلك.",
+      "file": "c039.ogg",
+      "durationSec": 6.792
+    }
+  ]
+}

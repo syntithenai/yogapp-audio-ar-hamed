@@ -1,0 +1,172 @@
+{
+  "id": "kindness-hard-day-5",
+  "voiceId": "ar-hamed",
+  "edgeVoice": "ar-SA-HamedNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 147,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 1,
+      "text": "ابحث عن مقعد مريح، أو استلقِ إذا كان ذلك أفضل.",
+      "file": "c001.ogg",
+      "durationSec": 8.928
+    },
+    {
+      "index": 2,
+      "text": "دع اليدين ترتاح.",
+      "file": "c002.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 3,
+      "text": "تنعيم العينين، أو إغلاقهما.",
+      "file": "c003.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 4,
+      "text": "خذ نفسا بطيئا.",
+      "file": "c004.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 5,
+      "text": "وزفير أطول.",
+      "file": "c005.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 6,
+      "text": "لا تحتاج إلى التظاهر بأن الأمر كان سهلاً.",
+      "file": "c006.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 7,
+      "text": "ودع حقيقة التعب تسمح.",
+      "file": "c007.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 8,
+      "text": "[وقفة: 31]",
+      "file": "c008.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 9,
+      "text": "تنفس في الرعاية.",
+      "file": "c009.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 10,
+      "text": "الزفير الطلب ليكون على ما يرام.",
+      "file": "c010.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 11,
+      "text": "[وقفة: 31]",
+      "file": "c011.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 12,
+      "text": "هل لي أن أكون لطيفًا مع نفسي هذه الليلة.",
+      "file": "c012.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 13,
+      "text": "هل لي أن أرتاح كما أنا.",
+      "file": "c013.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 14,
+      "text": "[وقفة: 31]",
+      "file": "c014.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 15,
+      "text": "قد أسأل غدًا فقط ما يمكنني تقديمه.",
+      "file": "c015.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 16,
+      "text": "[وقفة: 31]",
+      "file": "c016.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 17,
+      "text": "يشعر بدعم الجسم.",
+      "file": "c017.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 18,
+      "text": "لا شيء أكثر مطلوبة في هذه اللحظة.",
+      "file": "c018.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 19,
+      "text": "[وقفة: 45]",
+      "file": "c019.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 20,
+      "text": "اليد على القلب إذا كان ذلك يساعد.",
+      "file": "c020.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 21,
+      "text": "لقد نجحت في ذلك.",
+      "file": "c021.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 22,
+      "text": "[وقفة: 38]",
+      "file": "c022.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 23,
+      "text": "خذ نفسًا سهلاً آخر.",
+      "file": "c023.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 24,
+      "text": "تذبذب الأصابع.",
+      "file": "c024.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 25,
+      "text": "عندما تكون مستعدا، افتح عينيك.",
+      "file": "c025.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 26,
+      "text": "احمل القليل من هذا معك.",
+      "file": "c026.ogg",
+      "durationSec": 5.16
+    }
+  ]
+}

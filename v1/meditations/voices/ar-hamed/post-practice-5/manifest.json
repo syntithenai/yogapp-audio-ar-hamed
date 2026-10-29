@@ -1,0 +1,142 @@
+{
+  "id": "post-practice-5",
+  "voiceId": "ar-hamed",
+  "edgeVoice": "ar-SA-HamedNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 117,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 1,
+      "text": "لقد تدربت. الآن دع الجسم يستقبله.",
+      "file": "c001.ogg",
+      "durationSec": 8.472
+    },
+    {
+      "index": 2,
+      "text": "الاستلقاء أو الجلوس بكل سهولة.",
+      "file": "c002.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 3,
+      "text": "أغلق العينين.",
+      "file": "c003.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 4,
+      "text": "[وقفة: 31]",
+      "file": "c004.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 5,
+      "text": "ابحث عن الدفء أو الاهتزاز أو التعب الهادئ.",
+      "file": "c005.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 6,
+      "text": "لا الدرجات. فقط لاحظ.",
+      "file": "c006.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 7,
+      "text": "[وقفة: 45]",
+      "file": "c007.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 8,
+      "text": "الزفير الطويل.",
+      "file": "c008.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 9,
+      "text": "مرة أخرى.",
+      "file": "c009.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 10,
+      "text": "[وقفة: 38]",
+      "file": "c010.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 11,
+      "text": "أشكر الجسد على الظهور.",
+      "file": "c011.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 12,
+      "text": "[وقفة: 31]",
+      "file": "c012.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 13,
+      "text": "دع الجهد يستنزف على الأرض.",
+      "file": "c013.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 14,
+      "text": "[وقفة: 45]",
+      "file": "c014.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 15,
+      "text": "نفس واحد واضح في.",
+      "file": "c015.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 16,
+      "text": "زفير واحد كامل.",
+      "file": "c016.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 17,
+      "text": "[وقفة: 38]",
+      "file": "c017.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 18,
+      "text": "خذ نفسًا سهلاً آخر.",
+      "file": "c018.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 19,
+      "text": "تذبذب الأصابع.",
+      "file": "c019.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 20,
+      "text": "عندما تكون مستعدا، افتح عينيك.",
+      "file": "c020.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 21,
+      "text": "احمل القليل من هذا معك.",
+      "file": "c021.ogg",
+      "durationSec": 5.16
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": "forgiveness-soft-10",
+  "voiceId": "ar-hamed",
+  "edgeVoice": "ar-SA-HamedNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 221,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 1,
+      "text": "خذ وقتا للوصول.",
+      "file": "c001.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 2,
+      "text": "الجلوس أو الاستلقاء مع الدعم.",
+      "file": "c002.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 3,
+      "text": "أغمض عينيك إذا كان ذلك آمنًا.",
+      "file": "c003.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 4,
+      "text": "يشعر الاتصال مع الأرض.",
+      "file": "c004.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 5,
+      "text": "التنفس البطيء.",
+      "file": "c005.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 6,
+      "text": "زفير أطول.",
+      "file": "c006.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 7,
+      "text": "[وقفة: 27]",
+      "file": "c007.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 8,
+      "text": "مرة أخرى.",
+      "file": "c008.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 9,
+      "text": "[وقفة: 27]",
+      "file": "c009.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 10,
+      "text": "دع الكتفين تنخفض.",
+      "file": "c010.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 11,
+      "text": "دع البطن يلين.",
+      "file": "c011.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 12,
+      "text": "[وقفة: 34]",
+      "file": "c012.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 13,
+      "text": "التسامح هنا يعني إطلاق قبضة يدك المشدودة.",
+      "file": "c013.ogg",
+      "durationSec": 7.632
+    },
+    {
+      "index": 14,
+      "text": "عدم التظاهر بالأذى لا يهم.",
+      "file": "c014.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 15,
+      "text": "[وقفة: 34]",
+      "file": "c015.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 16,
+      "text": "ابدأ بشيء صغير تحمله ضد نفسك.",
+      "file": "c016.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 17,
+      "text": "خطأ. عيب.",
+      "file": "c017.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 18,
+      "text": "[وقفة: 34]",
+      "file": "c018.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 19,
+      "text": "بصمت: أسامح نفسي لكوني إنساناً.",
+      "file": "c019.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 20,
+      "text": "أحرر ما لم أعد بحاجة إلى حمله.",
+      "file": "c020.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 21,
+      "text": "[وقفة: 54]",
+      "file": "c021.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 22,
+      "text": "إذا كان الأمر على ما يرام، فتذكر صعوبة بسيطة مع شخص آخر.",
+      "file": "c022.ogg",
+      "durationSec": 10.992
+    },
+    {
+      "index": 23,
+      "text": "ليست القصة الأصعب أخف.",
+      "file": "c023.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 24,
+      "text": "[وقفة: 34]",
+      "file": "c024.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 25,
+      "text": "أنا أفرج عن ما أستطيع.",
+      "file": "c025.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 26,
+      "text": "أحافظ على حدودي. لقد وضعت الوزن الزائد.",
+      "file": "c026.ogg",
+      "durationSec": 9.456
+    },
+    {
+      "index": 27,
+      "text": "[وقفة: 54]",
+      "file": "c027.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 28,
+      "text": "تنفس في الأماكن التي تم ضغطها.",
+      "file": "c028.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 29,
+      "text": "[وقفة:68]",
+      "file": "c029.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 30,
+      "text": "استرح في المساحة التي تفتح عندما تليين القبضة.",
+      "file": "c030.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 31,
+      "text": "[وقفة: 81]",
+      "file": "c031.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 32,
+      "text": "[وقفة: 41]",
+      "file": "c032.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 33,
+      "text": "البدء في تعميق التنفس.",
+      "file": "c033.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 34,
+      "text": "اشعر بالغرفة مرة أخرى.",
+      "file": "c034.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 35,
+      "text": "تذبذب أصابع اليدين والقدمين.",
+      "file": "c035.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 36,
+      "text": "عندما تصبح جاهزة، افتح عينيك.",
+      "file": "c036.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 37,
+      "text": "التحرك ببطء إلى ما سيأتي بعد ذلك.",
+      "file": "c037.ogg",
+      "durationSec": 6.792
+    }
+  ]
+}
